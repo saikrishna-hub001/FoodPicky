@@ -21,6 +21,6 @@ To access admin portal type this in your URL BAR **\`root**/admin/ \`  where **r
 
 ## System Requirements
 
-Software : XAMPP / Wamp / Mamp/ Lamp \(anyone\).
+Software : XAMPP / Wamp / Mamp/ Lamp 
 
 
